@@ -5,3 +5,4 @@
 */
 MESSAGE 'git is nice'.
 MESSAGE 'A new feature!'.
+MESSAGE 'NEW'.
