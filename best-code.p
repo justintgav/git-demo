@@ -1,0 +1,1 @@
+MESSAGE 'git is nice'.
